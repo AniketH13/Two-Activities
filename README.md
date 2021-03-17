@@ -1,3 +1,4 @@
 # Two Activities App
 ### App screenshot
-![](./SecondActivity.png)
+![](./Message_Send.png)
+![](./Message_Recivied.png)
